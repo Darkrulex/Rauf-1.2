@@ -10,5 +10,7 @@ $ git clone https://github.com/Darkrulex/Rauf-1.2
 #### Run script
 ```python
 $ cd Rauf-1.2
-$ python2 Lanshikarilory.py
+$ python2 Rauf-1-enc.py
 ```
+#### TH3 L9NSHIK9RICH0UD R9UF H3R3 8-)
+```python
